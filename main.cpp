@@ -7,5 +7,6 @@ int main () { // энто учебная программа
     cout<<a-b<<endl;
     cout<<a*b<<endl;
     cout<<a/b<<endl;
+    //fdiosufdufosdufhodsuifdfdsiu
     return 0;
 }
