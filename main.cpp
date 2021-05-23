@@ -4,6 +4,8 @@ int main () { // энто учебная программа
     int a,b;
     cin>>a>>b;
     cout<<a+b<<endl;
-    cout<<a-b<<endl;
+    cout<<a-b<<endl;//ЫЫЫЫЫЫЫЫЫЫЫЫЫ
+    //умнжение
+    //деление
     return 0;
 }
