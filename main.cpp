@@ -5,8 +5,8 @@ int main () { // энто учебная программа
     cin>>a>>b;
     cout<<a+b<<endl;
     cout<<a-b<<endl;
-    cout<<a*b<<endl;
-    cout<<a/b<<endl;
+    //AYRet fsdfdszcdsf
+    //sadsadadew
     //fdiosufdufosdufhodsuifdfdsiu
     return 0;
 }
