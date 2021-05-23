@@ -4,10 +4,6 @@ int main () { // энто учебная программа
     int a,b;
     cin>>a>>b;
     cout<<a+b<<endl;
-    cout<<a-b<<endl;
-    cout<<a*b<<endl;
-    cout<<a/b<<endl;
-    //fdiosufdufosdufhodsuifdfdsiu
-    //Elochka
+    cout<<a-b<<endl;//ЫЫЫЫЫЫЫЫЫЫЫЫЫ
     return 0;
 }
