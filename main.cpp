@@ -5,7 +5,7 @@ int main () { // энто учебная программа
     cin>>a>>b;
     cout<<a+b<<endl;
     cout<<a-b<<endl;//ЫЫЫЫЫЫЫЫЫЫЫЫЫ
-    //умнжение
-    //деление
+    cout<<a*b<<endl;
+    cout<<a/b<<endl;
     return 0;
 }
