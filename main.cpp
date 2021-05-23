@@ -8,5 +8,6 @@ int main () { // энто учебная программа
     //AYRet fsdfdszcdsf
     //sadsadadew
     //fdiosufdufosdufhodsuifdfdsiu
+    //Elochka
     return 0;
 }
